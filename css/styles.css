@@ -1,0 +1,37 @@
+.rcm-dates {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+}
+
+.rcm-conference-content {
+  background: #fff;
+  border-radius: 16px;
+  padding: 20px 10px 15px 20px;
+  margin-bottom: 20px;
+  border: 1px solid #f1f4f5;
+}
+
+.rmc-menu-wrapper {
+  background: #fff;
+  border-radius: 16px;
+  padding: 20px 10px 15px 20px;
+  margin-bottom: 20px;
+  border: 1px solid #f1f4f5;
+}
+
+.rcm-symposium {
+  margin-bottom: 20px;
+}
+
+.rmc-menu {
+  margin: 20px;
+}
+
+.rcm-menu-item {
+  margin: 20px;
+}
+
+.rcm-to-menu {
+  margin: 20px 0px;
+}
